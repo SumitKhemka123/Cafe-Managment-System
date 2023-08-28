@@ -1,6 +1,9 @@
 # Cafe-Managment-System
  Efficient C-based café management system for streamlined orders, customer data, and admin control.
 
+ ![Cafeteria-Management-Banner](https://github.com/SumitKhemka123/Cafe-Managment-System/assets/114429746/2f61a6cf-5104-4d5b-8bdd-9c0a1f43dab9)
+
+
 
 ## Topics Covered
 The Café Management System covers various fundamental programming concepts and functionalities:
